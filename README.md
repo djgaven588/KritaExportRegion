@@ -1,5 +1,5 @@
 # How To Install
-Go to ``Tools > Scripts > Import Python Program From File`` and select the ``krita-export-region-plugin.zip`` that you can download [here](https://github.com/djgaven588/KritaExportRegion/releases/latest/krita-export-region-plugin.zip).
+Go to ``Tools > Scripts > Import Python Program From File`` and select the ``krita-export-region-plugin.zip`` that you can download [here](https://github.com/djgaven588/KritaExportRegion/releases/latest/download/krita-export-region-plugin.zip).
 
 If you do not see the option in ``Tools > Scripts`` to import one, you either have:
 - The plugin disabled. Check ``Settings > Configure Krita > Python Plugin Manager`` and ensure ``Python Plugin Importer`` is enabled, and restart.
