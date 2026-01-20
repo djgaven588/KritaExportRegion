@@ -1,0 +1,2 @@
+Adds "Export Region" action to file menu. 
+A selection must be made, the (merged) result is exported.

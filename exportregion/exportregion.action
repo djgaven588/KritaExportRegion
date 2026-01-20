@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Export Region</text>
+
+        <Action name="hailstorm_export_region">
+            <icon>document-export</icon>
+            <text>Export Region</text>
+            <whatsThis>Export the (merged) selection.</whatsThis>
+            <toolTip>Export the (merged) selection.</toolTip>
+            <iconText></iconText>
+            <activationFlags>1</activationFlags>
+            <activationConditions>0</activationConditions>
+            <shortcut>alt+shift+e</shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
